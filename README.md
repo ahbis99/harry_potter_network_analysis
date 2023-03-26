@@ -21,4 +21,8 @@ Project is created with **Python**. The main packages used:
 * Pyvis
 
 ## Visualizations from project
-![Harry potter network visualization](ahbis99/harry_potter_network_analysis/images/harry_potter_network.png)
+<img width="711" alt="harry_potter_network" src="https://user-images.githubusercontent.com/76615322/227768205-9b4fd169-e11f-4270-8081-965dc62bbef0.png">
+
+
+<img width="711" alt="harry_potter_community" src="https://user-images.githubusercontent.com/76615322/227768231-a5945ba1-c28e-4e93-9c0c-768f311c80f0.png">
+
