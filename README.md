@@ -21,3 +21,4 @@ Project is created with **Python**. The main packages used:
 * Pyvis
 
 ## Visualizations from project
+![Harry potter network visualization](../images/harry-potter-)
